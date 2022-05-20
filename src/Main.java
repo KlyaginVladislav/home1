@@ -10,4 +10,3 @@ public class Main {
         System.out.println("Разница в весе бойцов" + weightDiffer + "кг");
     }
 }
-
