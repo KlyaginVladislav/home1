@@ -7,6 +7,5 @@ public class Main {
         float smmaryWeight = boxer1 + boxer2;
         float weightDiffer = Math.abs(boxer1 - boxer2);
         System.out.println("общий вес двух бойцов" + smmaryWeight + "кг");
-        System.out.println("Разница в весе бойцов" + weightDiffer + "кг");
-    }
+        System.out.println("Разница в весе бойцов" + weightDiffer + "кг");}
 }
